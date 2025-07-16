@@ -220,9 +220,6 @@
         <mxCell id="uYDviDU1zn-IH7BDG_iS-110" value="动态分组地理位置.网络延迟" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="363.09" y="229" width="152.19" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m76yEa5fY4zDCQW0280z-0" value="XZX" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
