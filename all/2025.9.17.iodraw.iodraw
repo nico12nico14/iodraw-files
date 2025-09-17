@@ -17,13 +17,7 @@
           <mxGeometry x="530" y="348.8" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Applens.svg;" vertex="1" parent="1">
-          <mxGeometry x="90" y="346.8" width="68" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="FmLSLQYnHKjd0MMuUnQp-6" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="200" as="sourcePoint" />
-            <mxPoint x="490" y="200" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="70" y="220" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
