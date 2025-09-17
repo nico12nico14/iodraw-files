@@ -5,13 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Anomaly_Detector.svg;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="68" height="68" as="geometry" />
+          <mxGeometry x="220" y="348.8" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" vertex="1" parent="1">
           <mxGeometry x="-112" y="292.8" width="2" height="1.85" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="68" height="62.8" as="geometry" />
+          <mxGeometry x="346" y="348.8" width="68" height="62.8" as="geometry" />
+        </mxCell>
+        <mxCell id="FmLSLQYnHKjd0MMuUnQp-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="348.8" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="FmLSLQYnHKjd0MMuUnQp-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Applens.svg;" vertex="1" parent="1">
+          <mxGeometry x="90" y="346.8" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
