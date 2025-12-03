@@ -97,6 +97,12 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="-93" y="7" width="65" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-450" y="370" as="sourcePoint" />
+            <mxPoint x="-400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
