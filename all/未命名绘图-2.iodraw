@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zJobp1vlp_FAU9J5E-YX">
-    <mxGraphModel dx="1717" dy="781" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1710" dy="781" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Anomaly_Detector.svg;" parent="1" vertex="1">
-          <mxGeometry x="-634" y="205" width="68" height="68" as="geometry" />
+          <mxGeometry x="-645" y="71" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="1" vertex="1">
           <mxGeometry x="-201" y="523.8" width="2" height="1.85" as="geometry" />
@@ -17,37 +17,37 @@
           <mxGeometry x="-487" y="495" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Applens.svg;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="360" width="68" height="68" as="geometry" />
+          <mxGeometry x="-613" y="268" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-716" y="245" as="sourcePoint" />
-            <mxPoint x="-636" y="245" as="targetPoint" />
+            <mxPoint x="-727" y="111" as="sourcePoint" />
+            <mxPoint x="-647" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-426" y="245" as="sourcePoint" />
-            <mxPoint x="-346" y="245" as="targetPoint" />
+            <mxPoint x="-437" y="111" as="sourcePoint" />
+            <mxPoint x="-357" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-10" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-574" y="245" as="sourcePoint" />
-            <mxPoint x="-494" y="245" as="targetPoint" />
+            <mxPoint x="-585" y="111" as="sourcePoint" />
+            <mxPoint x="-505" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-677" y="426" width="70" height="30" as="geometry" />
+          <mxGeometry x="-610" y="334" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;伪峰剔除&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="273" width="80" height="30" as="geometry" />
+          <mxGeometry x="-651" y="139" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="273" width="80" height="30" as="geometry" />
+          <mxGeometry x="-511" y="139" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;定位与定量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="273" width="100" height="30" as="geometry" />
+          <mxGeometry x="-381" y="139" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.ami;aspect=fixed;fillColor=#E8CA45;strokeColor=#FFF215;" vertex="1" parent="1">
           <mxGeometry x="-446" y="53" width="92" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="-304" y="61" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Versions.svg;" vertex="1" parent="1">
-          <mxGeometry x="-771" y="362" width="68" height="64.96" as="geometry" />
+          <mxGeometry x="-704" y="270" width="68" height="64.96" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Templates.svg;" vertex="1" parent="1">
           <mxGeometry x="-772" y="503" width="68" height="60" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="-108" y="509" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据获取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-784" y="425" width="82" height="31" as="geometry" />
+          <mxGeometry x="-717" y="333" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="-669" y="501" width="68" height="60" as="geometry" />
