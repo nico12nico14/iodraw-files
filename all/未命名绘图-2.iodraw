@@ -8,10 +8,10 @@
           <mxGeometry x="-654" y="161" width="528" height="467" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
-          <mxGeometry x="418" y="330.79999999999995" width="2" height="1.85" as="geometry" />
+          <mxGeometry x="357" y="336.79999999999995" width="2" height="1.85" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
-          <mxGeometry x="396" y="184" width="68" height="62.8" as="geometry" />
+          <mxGeometry x="335" y="190" width="68" height="62.8" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Applens.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
           <mxGeometry x="167" y="32" width="68" height="68" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="71" y="186" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Instances.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry x="399" y="317" width="64" height="69" as="geometry" />
+          <mxGeometry x="338" y="323" width="64" height="69" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
           <mxGeometry x="69" y="331" width="56.00000000000001" height="69" as="geometry" />
@@ -44,10 +44,10 @@
           <mxGeometry x="63" y="245" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;情感分析&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry x="389" y="249" width="82" height="31" as="geometry" />
+          <mxGeometry x="328" y="255" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;上链存证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry x="392" y="386" width="82" height="31" as="geometry" />
+          <mxGeometry x="331" y="392" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
           <mxGeometry x="397" y="28" width="68" height="68" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="382" y="98" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry x="187" y="329" width="60" height="64" as="geometry" />
+          <mxGeometry x="186" y="335" width="60" height="64" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;智能合约&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry x="63" y="404" width="82" height="31" as="geometry" />
+          <mxGeometry x="58" y="403" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;激励机制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
           <mxGeometry x="177" y="403" width="82" height="31" as="geometry" />
