@@ -79,8 +79,8 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="-669" y="501" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-768" y="584" width="40" height="26" as="geometry" />
+        <mxCell id="G26MaCHtakXjCbGkBAuT-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;模型构建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-789" y="582" width="82" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
