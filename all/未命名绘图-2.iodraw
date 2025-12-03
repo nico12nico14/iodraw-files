@@ -67,8 +67,8 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;激励机制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-592" y="1143" width="82" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-22" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-743" y="225" width="600" height="422" as="geometry" />
+        <mxCell id="G26MaCHtakXjCbGkBAuT-23" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="196" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
