@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-809" y="435.2" width="70" height="30" as="geometry" />
+          <mxGeometry x="-792" y="267" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;伪峰剔除&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-640" y="273" width="80" height="30" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="-304" y="61" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Versions.svg;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="519" width="67" height="64" as="geometry" />
+          <mxGeometry x="-771" y="362" width="67" height="64" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Templates.svg;" vertex="1" parent="1">
           <mxGeometry x="-630" y="519" width="68" height="60" as="geometry" />
