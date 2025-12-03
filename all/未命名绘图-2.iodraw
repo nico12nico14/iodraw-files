@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G26MaCHtakXjCbGkBAuT-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术路线图&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;fillStyle=solid;swimlaneFillColor=none;gradientColor=none;opacity=60;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-657" y="161" width="503" height="423" as="geometry" />
+          <mxGeometry x="-654" y="161" width="528" height="423" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
           <mxGeometry x="418" y="330.79999999999995" width="2" height="1.85" as="geometry" />
