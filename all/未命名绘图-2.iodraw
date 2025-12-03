@@ -67,8 +67,8 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
           <mxGeometry x="-108" y="509" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-106" y="593" width="40" height="26" as="geometry" />
+        <mxCell id="G26MaCHtakXjCbGkBAuT-7" value="智能合约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="593" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
