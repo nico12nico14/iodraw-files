@@ -73,8 +73,8 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Identity_Governance.svg;" vertex="1" parent="1">
           <mxGeometry x="-113" y="369" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="429" width="40" height="26" as="geometry" />
+        <mxCell id="G26MaCHtakXjCbGkBAuT-9" value="数据获取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-776" y="427" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
