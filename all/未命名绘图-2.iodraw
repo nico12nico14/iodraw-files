@@ -14,7 +14,7 @@
           <mxGeometry x="-510" y="521" width="68" height="62.8" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
-          <mxGeometry x="-364" y="366" width="64" height="64" as="geometry" />
+          <mxGeometry x="-380" y="519" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Applens.svg;" parent="1" vertex="1">
           <mxGeometry x="-804" y="367.2" width="68" height="68" as="geometry" />
