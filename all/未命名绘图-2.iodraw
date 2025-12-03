@@ -64,6 +64,9 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Instances.svg;" vertex="1" parent="1">
           <mxGeometry x="-220" y="510" width="64" height="69" as="geometry" />
         </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="367" width="56.00000000000001" height="69" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
