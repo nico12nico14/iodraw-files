@@ -98,7 +98,7 @@
           <mxGeometry x="-93" y="7" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.parallel_mode;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="-470" y="330" width="95" height="40" as="geometry" />
+          <mxGeometry x="-740" y="370" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
