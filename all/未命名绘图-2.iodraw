@@ -56,10 +56,10 @@
           <mxGeometry x="-304" y="61" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Versions.svg;" vertex="1" parent="1">
-          <mxGeometry x="-771" y="362" width="67" height="64" as="geometry" />
+          <mxGeometry x="-771" y="362" width="68" height="64.96" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Templates.svg;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="519" width="68" height="60" as="geometry" />
+          <mxGeometry x="-772" y="503" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Instances.svg;" vertex="1" parent="1">
           <mxGeometry x="-220" y="510" width="64" height="69" as="geometry" />
