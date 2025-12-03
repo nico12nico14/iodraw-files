@@ -56,10 +56,10 @@
           <mxGeometry x="-304" y="61" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Versions.svg;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="520" width="67" height="64" as="geometry" />
+          <mxGeometry x="-730" y="519" width="67" height="64" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Templates.svg;" vertex="1" parent="1">
-          <mxGeometry x="-562" y="524" width="68" height="60" as="geometry" />
+          <mxGeometry x="-652" y="523" width="68" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
