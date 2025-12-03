@@ -77,7 +77,10 @@
           <mxGeometry x="-784" y="425" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="-404" y="369" width="68" height="60" as="geometry" />
+          <mxGeometry x="-669" y="501" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-768" y="584" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
