@@ -67,9 +67,6 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
           <mxGeometry x="-108" y="509" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Identity_Governance.svg;" vertex="1" parent="1">
-          <mxGeometry x="-113" y="369" width="64" height="64" as="geometry" />
-        </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据获取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-784" y="425" width="82" height="31" as="geometry" />
         </mxCell>
@@ -93,6 +90,9 @@
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="1">
           <mxGeometry x="-404" y="362" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;模型构建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-419" y="432" width="82" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
