@@ -50,7 +50,10 @@
           <mxGeometry x="-390" y="435.2" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.ami;aspect=fixed;fillColor=#E8CA45;strokeColor=#FFF215;" vertex="1" parent="1">
-          <mxGeometry x="-417" y="372" width="92" height="60" as="geometry" />
+          <mxGeometry x="-585" y="147" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="-304" y="61" width="65" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
