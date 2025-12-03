@@ -70,6 +70,17 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="-93" y="7" width="65" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-345" y="398" as="sourcePoint" />
+            <mxPoint x="-245" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-25" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-24">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
