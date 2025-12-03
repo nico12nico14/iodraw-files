@@ -91,12 +91,6 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow;dy1=0.67;dx1=18;dx2=18;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
           <mxGeometry x="250" y="364" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="113" as="sourcePoint" />
-            <mxPoint x="180" y="153" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
           <mxGeometry x="-111" y="660" width="75" height="75" as="geometry" />
         </mxCell>
