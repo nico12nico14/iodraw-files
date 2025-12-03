@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-682" y="427" width="70" height="30" as="geometry" />
+          <mxGeometry x="-677" y="426" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;伪峰剔除&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-640" y="273" width="80" height="30" as="geometry" />
