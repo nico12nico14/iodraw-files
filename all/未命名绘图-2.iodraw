@@ -84,6 +84,21 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="-93" y="7" width="65" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-408" y="236" as="sourcePoint" />
+            <mxPoint x="-248" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-31" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="G26MaCHtakXjCbGkBAuT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-32" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="G26MaCHtakXjCbGkBAuT-30">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-33" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="G26MaCHtakXjCbGkBAuT-30">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
