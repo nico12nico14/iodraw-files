@@ -64,21 +64,6 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;激励机制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
           <mxGeometry x="177" y="403" width="82" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="262" y="86" as="sourcePoint" />
-            <mxPoint x="346" y="86" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-31" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="G26MaCHtakXjCbGkBAuT-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-32" value="①" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="G26MaCHtakXjCbGkBAuT-30">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-33" value="②" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="G26MaCHtakXjCbGkBAuT-30">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
           <mxGeometry x="-111" y="660" width="75" height="75" as="geometry" />
         </mxCell>
