@@ -8,7 +8,7 @@
           <mxGeometry x="-644" y="117" width="477" height="467" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
-          <mxGeometry x="358" y="350.79999999999995" width="2" height="1.85" as="geometry" />
+          <mxGeometry x="360" y="345.79999999999995" width="2" height="1.85" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
           <mxGeometry x="335" y="190" width="68" height="62.8" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="71" y="186" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Instances.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry x="339" y="337" width="64" height="69" as="geometry" />
+          <mxGeometry x="341" y="332" width="64" height="69" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
           <mxGeometry x="69" y="331" width="56.00000000000001" height="69" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="328" y="255" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;上链存证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
-          <mxGeometry x="332" y="406" width="82" height="31" as="geometry" />
+          <mxGeometry x="333" y="403" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
           <mxGeometry x="340" y="27" width="68" height="68" as="geometry" />
