@@ -5,67 +5,67 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G26MaCHtakXjCbGkBAuT-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术路线图&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;fillStyle=solid;swimlaneFillColor=none;gradientColor=none;opacity=60;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-657" y="161" width="564" height="375" as="geometry" />
+          <mxGeometry x="-657" y="161" width="564" height="423" as="geometry" />
         </mxCell>
-        <mxCell id="FmLSLQYnHKjd0MMuUnQp-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="1" vertex="1">
-          <mxGeometry x="-324" y="903.8" width="2" height="1.85" as="geometry" />
+        <mxCell id="FmLSLQYnHKjd0MMuUnQp-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
+          <mxGeometry x="418" y="330.79999999999995" width="2" height="1.85" as="geometry" />
         </mxCell>
-        <mxCell id="FmLSLQYnHKjd0MMuUnQp-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="1" vertex="1">
-          <mxGeometry x="-346" y="757" width="68" height="62.8" as="geometry" />
+        <mxCell id="FmLSLQYnHKjd0MMuUnQp-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Content_Moderators.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
+          <mxGeometry x="396" y="184" width="68" height="62.8" as="geometry" />
+        </mxCell>
+        <mxCell id="FmLSLQYnHKjd0MMuUnQp-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Applens.svg;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
+          <mxGeometry x="167" y="32" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="FmLSLQYnHKjd0MMuUnQp-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="G26MaCHtakXjCbGkBAuT-23" vertex="1">
+          <mxGeometry x="170" y="98" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Versions.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="76" y="34" width="68" height="64.96" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Templates.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="71" y="186" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Instances.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="399" y="317" width="64" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="69" y="331" width="56.00000000000001" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据获取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="63" y="97" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="174" y="184" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;模型构建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="173" y="245" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="63" y="245" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;情感分析&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="389" y="249" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;上链存证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="392" y="386" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="397" y="28" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可信验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="382" y="98" width="82" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="G26MaCHtakXjCbGkBAuT-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;" vertex="1" parent="G26MaCHtakXjCbGkBAuT-23">
+          <mxGeometry x="187" y="329" width="60" height="64" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" parent="1" vertex="1">
           <mxGeometry x="-111" y="660" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="FmLSLQYnHKjd0MMuUnQp-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Applens.svg;" parent="1" vertex="1">
-          <mxGeometry x="-575" y="605" width="68" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="FmLSLQYnHKjd0MMuUnQp-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-572" y="671" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="-93" y="7" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Versions.svg;" vertex="1" parent="1">
-          <mxGeometry x="-666" y="607" width="68" height="64.96" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Image_Templates.svg;" vertex="1" parent="1">
-          <mxGeometry x="-671" y="759" width="68" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Instances.svg;" vertex="1" parent="1">
-          <mxGeometry x="-343" y="890" width="64" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
-          <mxGeometry x="-673" y="904" width="56.00000000000001" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据获取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-679" y="670" width="82" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="-568" y="757" width="68" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;模型构建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-569" y="818" width="82" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-679" y="818" width="82" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;情感分析&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-353" y="822" width="82" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;上链存证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="959" width="82" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;智能合约&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-708" y="1145" width="82" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="1">
-          <mxGeometry x="-345" y="601" width="68" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;可信验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="671" width="82" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;" vertex="1" parent="1">
-          <mxGeometry x="-555" y="902" width="60" height="64" as="geometry" />
         </mxCell>
         <mxCell id="G26MaCHtakXjCbGkBAuT-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;激励机制&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-592" y="1143" width="82" height="31" as="geometry" />
