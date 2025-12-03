@@ -17,7 +17,7 @@
           <mxGeometry x="-380" y="519" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Applens.svg;" parent="1" vertex="1">
-          <mxGeometry x="-679" y="366" width="68" height="68" as="geometry" />
+          <mxGeometry x="-680" y="360" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-792" y="267" width="70" height="30" as="geometry" />
+          <mxGeometry x="-682" y="427" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmLSLQYnHKjd0MMuUnQp-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;伪峰剔除&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-640" y="273" width="80" height="30" as="geometry" />
@@ -73,8 +73,8 @@
         <mxCell id="G26MaCHtakXjCbGkBAuT-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Identity_Governance.svg;" vertex="1" parent="1">
           <mxGeometry x="-113" y="369" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G26MaCHtakXjCbGkBAuT-9" value="数据获取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-776" y="427" width="66" height="26" as="geometry" />
+        <mxCell id="G26MaCHtakXjCbGkBAuT-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据获取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-784" y="425" width="82" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
