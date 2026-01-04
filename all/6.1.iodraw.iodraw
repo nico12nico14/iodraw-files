@@ -7,9 +7,6 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="79" height="73.28" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-8" value="人机交互" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Identity_Governance.svg;" vertex="1" parent="1">
-          <mxGeometry x="120" y="106" width="64" height="64" as="geometry" />
-        </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-14" value="积分变化" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
           <mxGeometry x="350" y="106" width="64" height="68" as="geometry" />
         </mxCell>
@@ -19,8 +16,8 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
-          <mxGeometry x="227" y="204" width="50" height="36" as="geometry" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-18" value="人机交互&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="210" y="118" width="70" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
