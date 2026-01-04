@@ -22,7 +22,7 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="65.22" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#e9c6c4;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="IGToxgigHWK5bGQav-FX-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="470" height="160" as="geometry" />
         </mxCell>
       </root>
