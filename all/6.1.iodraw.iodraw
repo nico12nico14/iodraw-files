@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="4qyJJftEwifIikjC1VHm">
-    <mxGraphModel dx="693" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,8 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-18" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#001DBC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0050ef;shape=mxgraph.mscae.system_center.admin_console;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="720" y="570" width="70" height="62" as="geometry" />
-        </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
           <mxGeometry x="370" y="131" width="76.09" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-29" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
-          <mxGeometry x="820" y="625" width="65.22" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-30" value="人机交互" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Windows_Notification_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="277.06" y="132" width="68" height="68" as="geometry" />
