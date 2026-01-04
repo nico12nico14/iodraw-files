@@ -1,35 +1,35 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="4qyJJftEwifIikjC1VHm">
-    <mxGraphModel dx="837" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IGToxgigHWK5bGQav-FX-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#857bd1;fontColor=#8e87d6;" vertex="1" parent="1">
-          <mxGeometry x="430" y="400" width="470" height="160" as="geometry" />
+          <mxGeometry x="175" y="330" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="560" width="79" height="73.28" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-14" value="积分变化" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
-          <mxGeometry x="490" y="210" width="65.88" height="70" as="geometry" />
+          <mxGeometry x="512.06" y="390" width="65.88" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-16" value="分析结果" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Operation_Log_Classic.svg;" vertex="1" parent="1">
-          <mxGeometry x="414" y="211" width="56" height="67" as="geometry" />
+          <mxGeometry x="436.06" y="391" width="56" height="67" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-18" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#001DBC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0050ef;shape=mxgraph.mscae.system_center.admin_console;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="170" y="375" width="70" height="62" as="geometry" />
+          <mxGeometry x="720" y="570" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="210" width="76.09" height="70" as="geometry" />
+          <mxGeometry x="342.06" y="390" width="76.09" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-29" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
-          <mxGeometry x="270" y="430" width="65.22" height="60" as="geometry" />
+          <mxGeometry x="820" y="625" width="65.22" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-30" value="人机交互" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Windows_Notification_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="220" y="212" width="68" height="68" as="geometry" />
+          <mxGeometry x="242.06" y="392" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
