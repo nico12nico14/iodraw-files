@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-7" target="IGToxgigHWK5bGQav-FX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="280" width="79" height="73.28" as="geometry" />
+          <mxGeometry x="351" y="350" width="79" height="73.28" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-14" value="积分变化" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
           <mxGeometry x="530" y="118" width="56.47" height="60" as="geometry" />
