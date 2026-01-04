@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="4qyJJftEwifIikjC1VHm">
-    <mxGraphModel dx="1427" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="210" y="85" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
-          <mxGeometry x="405.5" y="270" width="79" height="73.28" as="geometry" />
+          <mxGeometry x="20" y="490" width="79" height="73.28" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-14" value="积分变化" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
           <mxGeometry x="550" y="129.5" width="65.88" height="70" as="geometry" />
@@ -29,19 +29,19 @@
           <mxGeometry x="405.5" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-34" value="上链存证" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_Migration_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="500" y="390" width="64" height="69" as="geometry" />
+          <mxGeometry x="616" y="630" width="64" height="69" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-35" value="数据处理" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
-          <mxGeometry x="178" y="384" width="64" height="64" as="geometry" />
+          <mxGeometry x="294" y="624" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-36" value="信息封装" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="290" y="380" width="57.99999999999999" height="68" as="geometry" />
+          <mxGeometry x="406" y="620" width="57.99999999999999" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-37" value="调用合约" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Batch_Accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="403.06" y="384" width="68" height="64" as="geometry" />
+          <mxGeometry x="519.06" y="624" width="68" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#857bd1;fontColor=#8e87d6;" vertex="1" parent="1">
-          <mxGeometry x="330" y="490" width="470" height="160" as="geometry" />
+          <mxGeometry x="200" y="370" width="470" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
