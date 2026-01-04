@@ -22,6 +22,9 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="65.22" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Software_Updates.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="68" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
