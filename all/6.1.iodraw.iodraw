@@ -38,7 +38,7 @@
           <mxGeometry x="320" y="640" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-36" value="信息封装" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="400" y="636" width="58" height="68" as="geometry" />
+          <mxGeometry x="400" y="640" width="51.18" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-37" value="调用合约" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Batch_Accounts.svg;" vertex="1" parent="1">
           <mxGeometry x="519.06" y="624" width="68" height="64" as="geometry" />
