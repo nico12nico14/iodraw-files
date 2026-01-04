@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IGToxgigHWK5bGQav-FX-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#857bd1;fontColor=#8e87d6;" vertex="1" parent="1">
+        <mxCell id="IGToxgigHWK5bGQav-FX-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;fillStyle=auto;gradientColor=#857bd1;fontColor=#8e87d6;" vertex="1" parent="1">
           <mxGeometry x="210" y="85" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;fillStyle=auto;gradientColor=#3bc4ce;fontColor=#8e87d6;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="470" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#cec93b;fontColor=#8e87d6;" vertex="1" parent="1">
+        <mxCell id="IGToxgigHWK5bGQav-FX-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;fillStyle=auto;gradientColor=#cec93b;fontColor=#8e87d6;" vertex="1" parent="1">
           <mxGeometry x="210" y="470" width="470" height="160" as="geometry" />
         </mxCell>
       </root>
