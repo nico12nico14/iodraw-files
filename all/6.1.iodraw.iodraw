@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="4qyJJftEwifIikjC1VHm">
-    <mxGraphModel dx="866" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-60" value="业务服务层" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;gradientColor=#49c7d2;fillColor=#c4e3f6;strokeColor=none;direction=west;" vertex="1" parent="1">
           <mxGeometry x="768.88" y="402" width="91.12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-61" value="业务服务层" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;gradientColor=#49c7d2;fillColor=#c4e3f6;strokeColor=none;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="778.88" y="412" width="91.12" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
