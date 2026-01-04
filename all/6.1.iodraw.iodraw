@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IGToxgigHWK5bGQav-FX-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="444.17" height="410" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
