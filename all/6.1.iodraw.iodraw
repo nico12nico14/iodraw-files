@@ -34,6 +34,9 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-34" value="上链存证" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_Migration_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="656.73" y="392" width="55.65" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-35" target="IGToxgigHWK5bGQav-FX-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-35" value="数据处理" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="64" height="64" as="geometry" />
         </mxCell>
