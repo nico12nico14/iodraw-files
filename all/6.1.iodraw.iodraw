@@ -7,7 +7,7 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Disks.svg;" vertex="1" parent="1">
           <mxGeometry x="140" y="340" width="325.71" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Disks.svg;" vertex="1" parent="1">
+        <mxCell id="IGToxgigHWK5bGQav-FX-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Disks.svg;imageBackground=default;" vertex="1" parent="1">
           <mxGeometry x="340" y="90" width="325.71" height="320" as="geometry" />
         </mxCell>
       </root>
