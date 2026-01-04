@@ -11,10 +11,10 @@
           <mxGeometry x="390" y="350" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;fillStyle=auto;gradientColor=#857bd1;fontColor=#8e87d6;" vertex="1" parent="1">
-          <mxGeometry x="600" y="130" width="620" height="160" as="geometry" />
+          <mxGeometry x="599.5" y="140" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
-          <mxGeometry x="870" y="360" width="79" height="73.28" as="geometry" />
+          <mxGeometry x="860" y="377.72" width="79" height="73.28" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-14" value="积分变化" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
           <mxGeometry x="1014.5" y="174.5" width="65.88" height="70" as="geometry" />
