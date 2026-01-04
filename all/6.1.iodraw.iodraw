@@ -26,7 +26,10 @@
           <mxGeometry x="270" y="297" width="65.22" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-29" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
-          <mxGeometry x="610" y="440" width="65.22" height="60" as="geometry" />
+          <mxGeometry x="270" y="430" width="65.22" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-30" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Windows_Notification_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
