@@ -16,6 +16,9 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-16" value="分析结果" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Operation_Log_Classic.svg;" vertex="1" parent="1">
           <mxGeometry x="470" y="120" width="56.00000000000001" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="68" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
