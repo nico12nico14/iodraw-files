@@ -40,6 +40,9 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-37" value="调用合约" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Batch_Accounts.svg;" vertex="1" parent="1">
           <mxGeometry x="403.06" y="384" width="68" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#857bd1;fontColor=#8e87d6;" vertex="1" parent="1">
+          <mxGeometry x="220" y="95" width="470" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
