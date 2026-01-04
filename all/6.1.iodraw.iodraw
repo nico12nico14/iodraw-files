@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="4qyJJftEwifIikjC1VHm">
-    <mxGraphModel dx="485" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-18" value="人机交互&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
           <mxGeometry x="221.76" y="290" width="70" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
-          <mxGeometry x="331.76" y="292" width="65.22" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
