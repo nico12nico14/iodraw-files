@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IGToxgigHWK5bGQav-FX-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cde5f8;strokeColor=none;fillStyle=auto;gradientColor=#fad9d5;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="320" width="360" height="160" as="geometry" />
+          <mxGeometry x="1020" y="323" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;fillStyle=auto;gradientColor=#3bc4ce;fontColor=#8e87d6;" vertex="1" parent="1">
           <mxGeometry x="440" y="330" width="360" height="160" as="geometry" />
@@ -14,6 +14,9 @@
           <mxGeometry x="599.5" y="140" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-7" target="IGToxgigHWK5bGQav-FX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-7" target="IGToxgigHWK5bGQav-FX-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
@@ -56,16 +59,16 @@
           <mxGeometry x="630" y="374" width="61.63" height="58" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-44" value="规则执行" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Host_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="353" width="62" height="68" as="geometry" />
+          <mxGeometry x="1130" y="356" width="62" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-46" value="隐私保护" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Security_Windows.svg;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="354" width="68" height="68" as="geometry" />
+          <mxGeometry x="1300" y="357" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-47" value="关键信息写入" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Download.svg;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="354" width="64" height="67" as="geometry" />
+          <mxGeometry x="1220" y="357" width="64" height="67" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-48" value="联盟链" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Service_Fabric_Clusters.svg;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="358" width="67" height="64" as="geometry" />
+          <mxGeometry x="1030" y="361" width="67" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
