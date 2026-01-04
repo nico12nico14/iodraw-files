@@ -32,7 +32,7 @@
           <mxGeometry x="870" y="135" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-34" value="上链存证" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_Migration_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="656.73" y="392" width="55.65" height="60" as="geometry" />
+          <mxGeometry x="674.5" y="391" width="55.65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-35" target="IGToxgigHWK5bGQav-FX-36">
           <mxGeometry relative="1" as="geometry" />
@@ -40,11 +40,14 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-35" value="数据处理" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="64" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-36" target="IGToxgigHWK5bGQav-FX-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-36" value="信息封装" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="510" y="392" width="51.18" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-37" value="调用合约" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Batch_Accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="580" y="392" width="61.63" height="58" as="geometry" />
+          <mxGeometry x="590" y="394" width="61.63" height="58" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cde5f8;strokeColor=none;fillStyle=auto;gradientColor=#fad9d5;" vertex="1" parent="1">
           <mxGeometry x="1150" y="400" width="470" height="160" as="geometry" />
