@@ -8,7 +8,7 @@
           <mxGeometry x="1050.12" y="337" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;fillStyle=auto;gradientColor=#3bc4ce;fontColor=#8e87d6;" vertex="1" parent="1">
-          <mxGeometry x="440" y="330" width="360" height="160" as="geometry" />
+          <mxGeometry x="360" y="327" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;fillStyle=auto;gradientColor=#857bd1;fontColor=#8e87d6;" vertex="1" parent="1">
           <mxGeometry x="599.5" y="140" width="620" height="160" as="geometry" />
@@ -40,25 +40,25 @@
           <mxGeometry x="741.56" y="177" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-34" value="上链存证" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_Migration_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="710" y="373" width="55.65" height="60" as="geometry" />
+          <mxGeometry x="630" y="370" width="55.65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-35" target="IGToxgigHWK5bGQav-FX-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-35" value="数据处理" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
-          <mxGeometry x="480" y="371" width="64" height="64" as="geometry" />
+          <mxGeometry x="400" y="368" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-36" target="IGToxgigHWK5bGQav-FX-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-36" value="信息封装" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="560" y="372" width="51.18" height="60" as="geometry" />
+          <mxGeometry x="480" y="369" width="51.18" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-37" target="IGToxgigHWK5bGQav-FX-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-37" value="调用合约" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Batch_Accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="630" y="374" width="61.63" height="58" as="geometry" />
+          <mxGeometry x="550" y="371" width="61.63" height="58" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-44" value="规则执行" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Host_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="1160.12" y="370" width="62" height="68" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="959" y="402" width="91.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-60" value="业务服务层" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;gradientColor=#49c7d2;fillColor=#c4e3f6;strokeColor=none;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="834.5" y="520" width="91.12" height="30" as="geometry" />
+          <mxGeometry x="800" y="490" width="91.12" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
