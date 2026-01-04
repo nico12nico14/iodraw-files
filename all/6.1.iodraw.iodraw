@@ -7,8 +7,8 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Disks.svg;" vertex="1" parent="1">
           <mxGeometry x="140" y="340" width="325.71" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Disks_Snapshots.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="190" width="249.01" height="260" as="geometry" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="65" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
