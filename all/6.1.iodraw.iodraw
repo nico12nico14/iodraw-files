@@ -19,8 +19,8 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
-          <mxGeometry x="480" y="440" width="70" height="62" as="geometry" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#dae8fc;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
           <mxGeometry x="333.76" y="292" width="65.22" height="60" as="geometry" />
