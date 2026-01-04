@@ -8,7 +8,7 @@
           <mxGeometry x="360" y="300" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Identity_Governance.svg;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="64" height="64" as="geometry" />
+          <mxGeometry x="200" y="40" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
