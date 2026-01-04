@@ -55,8 +55,11 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cde5f8;strokeColor=none;fillStyle=auto;gradientColor=#fad9d5;" vertex="1" parent="1">
           <mxGeometry x="1000" y="340" width="470" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-44" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Host_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="640" y="340" width="62" height="68" as="geometry" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-44" value="规则执行" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Host_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="62" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-45" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/eBooks.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="350" width="68" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
