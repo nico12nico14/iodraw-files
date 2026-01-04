@@ -19,6 +19,9 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-18" value="人机交互&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
           <mxGeometry x="210" y="118" width="70" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="50" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
