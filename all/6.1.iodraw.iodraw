@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-35" value="数据处理" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
-          <mxGeometry x="410" y="390" width="64" height="64" as="geometry" />
+          <mxGeometry x="430" y="391" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-36" target="IGToxgigHWK5bGQav-FX-37">
           <mxGeometry relative="1" as="geometry" />
