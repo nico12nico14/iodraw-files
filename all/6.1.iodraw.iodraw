@@ -8,7 +8,7 @@
           <mxGeometry x="210" y="85" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
-          <mxGeometry x="405.5" y="300" width="79" height="73.28" as="geometry" />
+          <mxGeometry x="405.5" y="270" width="79" height="73.28" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-14" value="积分变化" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
           <mxGeometry x="550" y="129.5" width="65.88" height="70" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="277.06" y="132" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-33" value="前端展示层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="28" width="80" height="30" as="geometry" />
+          <mxGeometry x="405.5" y="90" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
