@@ -16,8 +16,10 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-7" target="IGToxgigHWK5bGQav-FX-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-7" target="IGToxgigHWK5bGQav-FX-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IGToxgigHWK5bGQav-FX-49">
+          <mxGeometry x="0.2642" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
           <mxGeometry x="860" y="377.72" width="99" height="91.83" as="geometry" />
