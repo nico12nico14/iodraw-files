@@ -76,8 +76,8 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="344.67" y="105.22" width="487.27" height="280.3" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="364.67" y="125.22" width="487.27" height="280.3" as="geometry" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1163.605" y="30.005000000000003" width="280.3" height="487.27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
