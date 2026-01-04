@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IGToxgigHWK5bGQav-FX-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#857bd1;fontColor=#8e87d6;" vertex="1" parent="1">
-          <mxGeometry x="200" y="410" width="470" height="160" as="geometry" />
+          <mxGeometry x="380" y="425" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="560" width="79" height="73.28" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-18" value="人机交互&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
           <mxGeometry x="221.76" y="290" width="70" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-19" target="IGToxgigHWK5bGQav-FX-26">
+        <mxCell id="IGToxgigHWK5bGQav-FX-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-19" target="IGToxgigHWK5bGQav-FX-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
