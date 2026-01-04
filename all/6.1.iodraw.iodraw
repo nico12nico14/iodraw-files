@@ -31,8 +31,8 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-30" value="人机交互" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Windows_Notification_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="277.06" y="132" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355" y="28" width="50" height="30" as="geometry" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-33" value="前端展示层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="28" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
