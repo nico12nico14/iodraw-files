@@ -13,6 +13,9 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Event_Grid_Domains.svg;" vertex="1" parent="1">
           <mxGeometry x="440" y="110" width="67" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="64" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
