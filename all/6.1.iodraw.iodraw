@@ -58,9 +58,6 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-44" value="规则执行" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Host_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="550" y="600" width="62" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-45" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/eBooks.svg;" vertex="1" parent="1">
-          <mxGeometry x="780" y="620" width="68" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-46" value="隐私保护" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Security_Windows.svg;" vertex="1" parent="1">
           <mxGeometry x="923.56" y="540" width="68" height="68" as="geometry" />
         </mxCell>
