@@ -75,9 +75,6 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-57" value="区块链支撑层" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;gradientColor=#f5dad9;fillColor=#d0e4f5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="959" y="402" width="91.12" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-58" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="834.5" y="510" width="115.5" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
