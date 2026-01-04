@@ -35,16 +35,16 @@
           <mxGeometry x="405.5" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-34" value="上链存证" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_Migration_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="370" width="64" height="69" as="geometry" />
+          <mxGeometry x="500" y="390" width="64" height="69" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-35" value="数据处理" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
-          <mxGeometry x="407.06" y="384" width="64" height="64" as="geometry" />
+          <mxGeometry x="178" y="384" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-36" value="信息封装" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="290" y="380" width="57.99999999999999" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-37" value="调用合约" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Batch_Accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="500" y="400" width="68" height="64" as="geometry" />
+          <mxGeometry x="403.06" y="384" width="68" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
