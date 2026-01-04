@@ -17,10 +17,10 @@
           <mxGeometry x="860" y="377.72" width="99" height="91.83" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-14" value="积分变化" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
-          <mxGeometry x="1013.88" y="161.1" width="65.88" height="70" as="geometry" />
+          <mxGeometry x="1050" y="163.6" width="65.88" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-16" value="分析结果" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Operation_Log_Classic.svg;" vertex="1" parent="1">
-          <mxGeometry x="934.9399999999999" y="162.6" width="56" height="67" as="geometry" />
+          <mxGeometry x="958.9999999999999" y="165.1" width="56" height="67" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="68" height="68" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="818.41" y="163.6" width="76.09" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-30" value="人机交互" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Windows_Notification_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="700.8799999999999" y="163.6" width="68" height="68" as="geometry" />
+          <mxGeometry x="700.8799999999999" y="164.6" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-34" value="上链存证" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_Migration_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="678.88" y="380" width="55.65" height="60" as="geometry" />
