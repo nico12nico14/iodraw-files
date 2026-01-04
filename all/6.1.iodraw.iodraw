@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IGToxgigHWK5bGQav-FX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IGToxgigHWK5bGQav-FX-7" target="IGToxgigHWK5bGQav-FX-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="346.72" width="79" height="73.28" as="geometry" />
+          <mxGeometry x="351" y="290" width="79" height="73.28" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-14" value="积分变化" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
           <mxGeometry x="530" y="118" width="56.47" height="60" as="geometry" />
@@ -24,9 +21,6 @@
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="65.22" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-22" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="469.5" y="353.36" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
