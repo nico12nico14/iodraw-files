@@ -43,7 +43,7 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=none;fillStyle=auto;gradientColor=#3bc4ce;fontColor=#8e87d6;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="470" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=none;fillStyle=auto;gradientColor=#fad9d5;" vertex="1" parent="1">
+        <mxCell id="IGToxgigHWK5bGQav-FX-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cde5f8;strokeColor=none;fillStyle=auto;gradientColor=#fad9d5;" vertex="1" parent="1">
           <mxGeometry x="210" y="470" width="470" height="160" as="geometry" />
         </mxCell>
       </root>
