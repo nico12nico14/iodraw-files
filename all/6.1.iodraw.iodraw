@@ -32,7 +32,7 @@
           <mxGeometry x="870" y="135" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-34" value="上链存证" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_Migration_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="616" y="630" width="64" height="69" as="geometry" />
+          <mxGeometry x="560" y="640" width="64" height="69" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-35" value="数据处理" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="64" height="64" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="400" y="642" width="51.18" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-37" value="调用合约" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Batch_Accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="519.06" y="624" width="68" height="64" as="geometry" />
+          <mxGeometry x="480" y="642" width="61.63" height="58" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cde5f8;strokeColor=none;fillStyle=auto;gradientColor=#fad9d5;" vertex="1" parent="1">
           <mxGeometry x="1150" y="400" width="470" height="160" as="geometry" />
