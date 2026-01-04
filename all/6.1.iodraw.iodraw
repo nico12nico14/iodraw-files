@@ -34,6 +34,9 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-33" value="前端展示层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405.5" y="90" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IGToxgigHWK5bGQav-FX-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_Migration_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="64" height="69" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
