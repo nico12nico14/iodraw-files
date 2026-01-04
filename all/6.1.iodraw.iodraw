@@ -14,7 +14,7 @@
           <mxGeometry x="541.76" y="290" width="56.47" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-16" value="分析结果" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Operation_Log_Classic.svg;" vertex="1" parent="1">
-          <mxGeometry x="441.76" y="290" width="56.00000000000001" height="67" as="geometry" />
+          <mxGeometry x="420" y="210" width="56.00000000000001" height="67" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="68" height="68" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="170" y="375" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-19" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
-          <mxGeometry x="414" y="198" width="65.22" height="60" as="geometry" />
+          <mxGeometry x="330" y="210" width="65.22" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGToxgigHWK5bGQav-FX-29" value="用户参与" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_Requests.svg;" vertex="1" parent="1">
           <mxGeometry x="270" y="430" width="65.22" height="60" as="geometry" />
