@@ -40,8 +40,8 @@
         <mxCell id="IGToxgigHWK5bGQav-FX-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
           <mxGeometry x="420" y="370" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="IGToxgigHWK5bGQav-FX-36" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="390" y="280" width="57.99999999999999" height="68" as="geometry" />
+        <mxCell id="IGToxgigHWK5bGQav-FX-36" value="信息封装" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="57.99999999999999" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
